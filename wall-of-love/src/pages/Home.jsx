@@ -97,29 +97,7 @@ const Home = () => {
         </Link>
       </section>
 
-      {/* ================= TRUST INDICATORS ================= */}
-      {/* <section className="bg-white py-8 border-b">
-        <div className="max-w-6xl mx-auto px-6">
-          <div className="flex justify-center items-center gap-8 text-sm text-gray-600">
-            <div className="flex items-center gap-2">
-              <span className="text-green-500">✓</span>
-              <span>Verified Reviews Only</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <span className="text-blue-500">🔒</span>
-              <span>SSL Secured</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <span className="text-purple-500">⚡</span>
-              <span>Real-time Updates</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <span className="text-orange-500">🏆</span>
-              <span>Award Winning</span>
-            </div>
-          </div>
-        </div>
-      </section> */}
+
 
       {/* ================= FEATURED REVIEWS PREVIEW ================= */}
       <section className="px-6 py-12 max-w-6xl mx-auto">
