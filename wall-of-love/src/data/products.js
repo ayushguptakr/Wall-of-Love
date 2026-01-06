@@ -2,31 +2,31 @@ export const products = [
   {
     id: "headphone-101",
     name: "WaveX Wireless Headphones",
-    price: "₹2,999",
+    price: "₹999",
     image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop",
   },
   {
     id: "smartwatch-202",
     name: "PulseFit Smartwatch",
-    price: "₹3,499",
+    price: "₹2,499",
     image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=300&fit=crop",
   },
   {
     id: "laptop-303",
     name: "TechPro Ultrabook 15",
-    price: "₹45,999",
+    price: "₹55,999",
     image: "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=300&fit=crop",
   },
   {
     id: "phone-404",
     name: "ZenPhone Pro Max",
-    price: "₹18,999",
+    price: "₹28,999",
     image: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=300&fit=crop",
   },
   {
     id: "speaker-505",
     name: "BoomBox Bluetooth Speaker",
-    price: "₹1,799",
+    price: "₹2,799",
     image: "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400&h=300&fit=crop",
   },
   {
